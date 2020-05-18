@@ -1,0 +1,12 @@
+// Here you can add other styles
+.in-middle {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+.dropdown-menu-right-fixed {
+  right: 0 !important;
+  left: -145px !important;
+}
